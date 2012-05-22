@@ -6,7 +6,6 @@ The purpose of this sample is to show you how to display the JPQL and/or SQL que
 
 Read my blog to know more about it.
 
-
 ## Compile and test
 
 Being Maven centric, you can compile and test the samples with `mvn clean compile` or `mvn clean test`.
