@@ -4,7 +4,7 @@
 
 The purpose of this sample is to show you how to display the JPQL and/or SQL query String of a JPA 2.0 Criteria Query. JPA 2.0 specifies a typed safe criteria API, i.e, a way to build a JPQL query using an API instead of a String. The problem is that JPA doesn't specify a standard way of getting the built String of a Criteria API, so each implementation has it own proprietary API.
 
-Read my blog to know more about it.
+[Read my blog to know more about it](http://agoncal.wordpress.com/2012/05/24/how-to-get-the-jpqlsql-string-from-a-criteriaquery-in-jpa/).
 
 ## Compile and test
 
